@@ -1,0 +1,45 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.header {
+  
+}
+
+.menu {
+ 
+}
+
+.menu a {
+ 
+}
+
+.menu a:hover {
+ 
+}
+
+#columnA {
+   
+}
+#columnB {
+   
+}
+#columnC {
+   
+}
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.footer {
+  
+}
